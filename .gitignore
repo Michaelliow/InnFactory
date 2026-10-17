@@ -1,0 +1,28 @@
+# Unity 生成 / 本机文件
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/Build/
+/Builds/
+/Release/
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+.vs/
+.vscode/
+.idea/
+*.tmp
+
+# 工具（Tools/ 下的独立 .NET 项目需要自己的 csproj）
+!/Tools/**/*.csproj
+/Tools/**/bin/
+/Tools/**/obj/
+
+# 密钥：绝不提交
+config.json
+.env
+inncooker.txt
+*token*.txt

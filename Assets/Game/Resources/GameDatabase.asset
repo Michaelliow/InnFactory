@@ -1,0 +1,323 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bde2e6965e5aaa24ab2bce8418edfc94, type: 3}
+  m_Name: GameDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::Inn.GameDatabase
+  items:
+  - {fileID: 11400000, guid: 5d8d8643b74f1ba4dbab6ccc46d104d4, type: 2}
+  - {fileID: 11400000, guid: 073fc0a6a5f85284fa25c2af25d99b43, type: 2}
+  - {fileID: 11400000, guid: 813e6abaab778324290bc6dfa592b2bd, type: 2}
+  - {fileID: 11400000, guid: ca399e48edd28dd4497db01a444e5367, type: 2}
+  - {fileID: 11400000, guid: 94668b7f99637824aa1e68f1163ca585, type: 2}
+  - {fileID: 11400000, guid: 54e02c52bc842c44094c6bea6324691d, type: 2}
+  - {fileID: 11400000, guid: 3b06dfc092f79684086f43a4766e75ac, type: 2}
+  - {fileID: 11400000, guid: 55d72bc03ab634d4ead446f88f7cebfa, type: 2}
+  - {fileID: 11400000, guid: e4677cd518ad64046bb21fb80a7c13f7, type: 2}
+  - {fileID: 11400000, guid: 7c4d1f02ebc4c664e972c52497d15368, type: 2}
+  - {fileID: 11400000, guid: 1208892f7f499a047aef8de7791df8e3, type: 2}
+  - {fileID: 11400000, guid: 0fd0631d90f3d114fa444c0ef62a64a6, type: 2}
+  - {fileID: 11400000, guid: 66112c138f326ea4789aebd95164e567, type: 2}
+  - {fileID: 11400000, guid: a04a9342fdf1c324ebee15c09aea3ee4, type: 2}
+  - {fileID: 11400000, guid: fd029762c45db8242ac5fbd00b686c6d, type: 2}
+  - {fileID: 11400000, guid: 9cf0bfe9a7b7cea448f55c786cbf3b75, type: 2}
+  - {fileID: 11400000, guid: e9e69fefe2b2de048abc3cf4054f010b, type: 2}
+  - {fileID: 11400000, guid: 3a8b28a99cb32994f9e1b7463354e430, type: 2}
+  - {fileID: 11400000, guid: fa86ed588999c494fbb3b52089d7c825, type: 2}
+  - {fileID: 11400000, guid: 1b27e06ba4fd8904cbd3d770ee29c93f, type: 2}
+  - {fileID: 11400000, guid: 32da6f54257a23f4ea98a85bd16a9c1c, type: 2}
+  - {fileID: 11400000, guid: 8da758e84c9b84048be89c4e1e990621, type: 2}
+  - {fileID: 11400000, guid: ebbdd39c86795424fb3c65fd70584a23, type: 2}
+  - {fileID: 11400000, guid: 447b9ed744951c349a06739b1f06621e, type: 2}
+  - {fileID: 11400000, guid: 308401e1060c3e04895dce6b561926ed, type: 2}
+  - {fileID: 11400000, guid: da8ecf4510c72b74491c89573361eeef, type: 2}
+  - {fileID: 11400000, guid: d7de88419cf89ce48a8ea8bde7fdd4ce, type: 2}
+  - {fileID: 11400000, guid: 4d50e00edd3bba245a561d0928c2fcd1, type: 2}
+  - {fileID: 11400000, guid: e61811a5c74f4a54db25954a327b00b2, type: 2}
+  - {fileID: 11400000, guid: 31d0ece6dc1c34b42bccd934c95fbd92, type: 2}
+  - {fileID: 11400000, guid: 16da129e7e71734458fbcb6f1c01c2d4, type: 2}
+  - {fileID: 11400000, guid: 82b1b32fa2c0e564387cba52d0b457ca, type: 2}
+  - {fileID: 11400000, guid: d0e00c5824c1c1b4593618b89baffba4, type: 2}
+  - {fileID: 11400000, guid: 82842061b4c70144e9bfd1602f7e459a, type: 2}
+  - {fileID: 11400000, guid: 4f3c7a618d8f9b74cad822f161f6bcad, type: 2}
+  - {fileID: 11400000, guid: 3edafb62f44191a4a8d2285de0b0e5e1, type: 2}
+  crops:
+  - {fileID: 11400000, guid: 0585246f9906d574e9d32bdd6b583b36, type: 2}
+  - {fileID: 11400000, guid: 9b20b72c3c14eb44fa2c4e32d0a39179, type: 2}
+  - {fileID: 11400000, guid: 5ffafe46979da0143a668a3c356f9e51, type: 2}
+  - {fileID: 11400000, guid: d607a672259b054489f1eb3f193c9b23, type: 2}
+  - {fileID: 11400000, guid: e0bdfc931b45cc944871817bb88ee86a, type: 2}
+  - {fileID: 11400000, guid: 64836d85bd4def045960feafd91c5d42, type: 2}
+  - {fileID: 11400000, guid: 533e377711f6f4e42b87019bf1ec6590, type: 2}
+  - {fileID: 11400000, guid: a98156ab901a8fa4db553d1f43526603, type: 2}
+  recipes:
+  - {fileID: 11400000, guid: a3a45b795f71c5a43975ec820d2528c9, type: 2}
+  - {fileID: 11400000, guid: a305130923c4b5849a469fd8ef2f2fc8, type: 2}
+  - {fileID: 11400000, guid: 9f89cc6b63845324a997627c2ef24bf3, type: 2}
+  - {fileID: 11400000, guid: e81ad621637d960499e806eb0333ba94, type: 2}
+  - {fileID: 11400000, guid: 866f966474f7b584fbd7165b2ddfa0ae, type: 2}
+  - {fileID: 11400000, guid: 40036a20502022c409d846d329b1bb47, type: 2}
+  - {fileID: 11400000, guid: aaa77a093bb905a489d9a5c668cbc9d2, type: 2}
+  - {fileID: 11400000, guid: 7d4810c8827f9ae44826ba182eaff710, type: 2}
+  - {fileID: 11400000, guid: 393ebc6a3c612734eb8eed7f611b5a91, type: 2}
+  - {fileID: 11400000, guid: ce22d7191b9409a4bad38939e5c881ae, type: 2}
+  - {fileID: 11400000, guid: cbb970d66cab50648bf25dcb85f8c63d, type: 2}
+  - {fileID: 11400000, guid: cba93e1ea05747144bc9079e62cc1101, type: 2}
+  - {fileID: 11400000, guid: f5913d9dea473a648b9951df6c045a07, type: 2}
+  - {fileID: 11400000, guid: 97196d7a2061efb46b35dd63659eca25, type: 2}
+  - {fileID: 11400000, guid: e483ba38c0456fe42bb4bc5ac7c9047a, type: 2}
+  - {fileID: 11400000, guid: abdb759c579ffe8449b4a109f79a5995, type: 2}
+  buildables:
+  - {fileID: 11400000, guid: 4b2ac6137f2593d45b1fa7294e766278, type: 2}
+  - {fileID: 11400000, guid: d52ea9786ea9c754fb100f30649ea8c7, type: 2}
+  - {fileID: 11400000, guid: cdf3c047488bb51489ded56998bc8f04, type: 2}
+  - {fileID: 11400000, guid: 4fa3950dca65e0643940ee8f3fe5a6f0, type: 2}
+  - {fileID: 11400000, guid: f604011f8595a664db956433591517c3, type: 2}
+  - {fileID: 11400000, guid: 0e502a2b48ca4a442b81ce110b794536, type: 2}
+  - {fileID: 11400000, guid: 38b3c643198221248ac9bac3e97c345b, type: 2}
+  - {fileID: 11400000, guid: 7c33445cefbd8e840986722bff3eb7f8, type: 2}
+  - {fileID: 11400000, guid: e09e1799e85d0f949ac66ba5d9daf348, type: 2}
+  - {fileID: 11400000, guid: be5bbe8d11eca2040805bbbb1b0e5dc1, type: 2}
+  - {fileID: 11400000, guid: 8c94ae7918af3fb4688580efe36dd1ab, type: 2}
+  - {fileID: 11400000, guid: 1067e4e7f6081ac4797b1dd59eb65a57, type: 2}
+  - {fileID: 11400000, guid: 748cdc63fe3d67845b345b9df089145d, type: 2}
+  - {fileID: 11400000, guid: c4fd63451b4ec764abba2156db74837a, type: 2}
+  - {fileID: 11400000, guid: 5e628f6cb15bcd8458fe56af796ac4dd, type: 2}
+  - {fileID: 11400000, guid: f6f9876fa1ccdb340999273b6d120b6c, type: 2}
+  - {fileID: 11400000, guid: 5726b3bc8f331d149a09bba3978f37f7, type: 2}
+  - {fileID: 11400000, guid: 637cc0291df0cbe499b357be29b5efd5, type: 2}
+  - {fileID: 11400000, guid: f8d92fa088c409941a2b7fb57c4ec50d, type: 2}
+  - {fileID: 11400000, guid: 3e3974c4f8f31de4089857f56617cf57, type: 2}
+  - {fileID: 11400000, guid: fec78d35fb604894b85c730952502434, type: 2}
+  - {fileID: 11400000, guid: 2918d659f4674594bad7b417973e9bbc, type: 2}
+  - {fileID: 11400000, guid: 6332920a4932ccb42975cb3de2f94cfd, type: 2}
+  - {fileID: 11400000, guid: 6c432d4e36adf11469002d8c3c8219ed, type: 2}
+  - {fileID: 11400000, guid: cde7e899fab480e438f7c9b7a4876418, type: 2}
+  - {fileID: 11400000, guid: dae3f14920f586c40afe9be1950a008c, type: 2}
+  customers:
+  - {fileID: 11400000, guid: 913c41f0b43f3734d9cbfd67d2df7451, type: 2}
+  - {fileID: 11400000, guid: 2b0913b9f4500b747a34bd29de33b45b, type: 2}
+  - {fileID: 11400000, guid: 6d8c9427176beac44a124efbc7b9d77d, type: 2}
+  - {fileID: 11400000, guid: 040ee7c5b13aebc40b806b0e0811bd45, type: 2}
+  - {fileID: 11400000, guid: 50ba77a3ae4ca1648a73abea30842758, type: 2}
+  darkDish: {fileID: 11400000, guid: 3edafb62f44191a4a8d2285de0b0e5e1, type: 2}
+  baseMaterial: {fileID: 2100000, guid: 0443220e23a93314baaac577f63ecf65, type: 2}
+  mapHeight: 10
+  gardenWidth: 12
+  kitchenWidth: 8
+  diningWidth: 10
+  doorRows: {x: 3, y: 6}
+  startLayout:
+  - def: {fileID: 11400000, guid: 4b2ac6137f2593d45b1fa7294e766278, type: 2}
+    cell: {x: 2, y: 5}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: 4b2ac6137f2593d45b1fa7294e766278, type: 2}
+    cell: {x: 2, y: 6}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: 4b2ac6137f2593d45b1fa7294e766278, type: 2}
+    cell: {x: 3, y: 5}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: 4b2ac6137f2593d45b1fa7294e766278, type: 2}
+    cell: {x: 3, y: 6}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: 4b2ac6137f2593d45b1fa7294e766278, type: 2}
+    cell: {x: 4, y: 5}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: 4b2ac6137f2593d45b1fa7294e766278, type: 2}
+    cell: {x: 4, y: 6}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: d52ea9786ea9c754fb100f30649ea8c7, type: 2}
+    cell: {x: 7, y: 6}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: f604011f8595a664db956433591517c3, type: 2}
+    cell: {x: 5, y: 2}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: 0e502a2b48ca4a442b81ce110b794536, type: 2}
+    cell: {x: 13, y: 8}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: 38b3c643198221248ac9bac3e97c345b, type: 2}
+    cell: {x: 15, y: 8}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: 7c33445cefbd8e840986722bff3eb7f8, type: 2}
+    cell: {x: 17, y: 8}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: f604011f8595a664db956433591517c3, type: 2}
+    cell: {x: 13, y: 2}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: 748cdc63fe3d67845b345b9df089145d, type: 2}
+    cell: {x: 19, y: 5}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: c4fd63451b4ec764abba2156db74837a, type: 2}
+    cell: {x: 22, y: 5}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: 5e628f6cb15bcd8458fe56af796ac4dd, type: 2}
+    cell: {x: 21, y: 5}
+    dir: 1
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: 5e628f6cb15bcd8458fe56af796ac4dd, type: 2}
+    cell: {x: 24, y: 6}
+    dir: 3
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: c4fd63451b4ec764abba2156db74837a, type: 2}
+    cell: {x: 26, y: 5}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: 5e628f6cb15bcd8458fe56af796ac4dd, type: 2}
+    cell: {x: 25, y: 5}
+    dir: 1
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: 5e628f6cb15bcd8458fe56af796ac4dd, type: 2}
+    cell: {x: 28, y: 6}
+    dir: 3
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: 3e3974c4f8f31de4089857f56617cf57, type: 2}
+    cell: {x: 27, y: 1}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: f6f9876fa1ccdb340999273b6d120b6c, type: 2}
+    cell: {x: 20, y: 9}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  - def: {fileID: 11400000, guid: 5726b3bc8f331d149a09bba3978f37f7, type: 2}
+    cell: {x: 29, y: 9}
+    dir: 0
+    content: {fileID: 0}
+    count: 0
+  startGold: 500
+  startBag:
+  - item: {fileID: 11400000, guid: 073fc0a6a5f85284fa25c2af25d99b43, type: 2}
+    count: 10
+  - item: {fileID: 11400000, guid: ca399e48edd28dd4497db01a444e5367, type: 2}
+    count: 10
+  - item: {fileID: 11400000, guid: 54e02c52bc842c44094c6bea6324691d, type: 2}
+    count: 5
+  - item: {fileID: 11400000, guid: 55d72bc03ab634d4ead446f88f7cebfa, type: 2}
+    count: 5
+  dayLengthSeconds: 480
+  repThresholds: 000000003c000000c8000000c2010000520300007805000098080000800c00009411000070170000
+  upkeepBase: 10
+  upkeepPerBuildValue: 0.01
+  waterSeconds: 30
+  arrivalBase: 20
+  arrivalPerLevel: 0.15
+  doorWaitSeconds: 15
+  eatSeconds: 5
+  baseSatisfaction: 60
+  decorCap: 20
+  likeBonus: 10
+  darkPenalty: 30
+  waitPenaltyPerSec: 2
+  angryLeaveAt: 20
+  qualityPriceMul:
+  - 1
+  - 1
+  - 1.5
+  - 2.5
+  qualitySatBonus: 00000000000000000a00000014000000
+  starRows:
+  - stars: 1
+    weight: 50
+    mainRange: {x: 20, y: 40}
+    otherRange: {x: 5, y: 25}
+    wage: 20
+  - stars: 2
+    weight: 28
+    mainRange: {x: 35, y: 55}
+    otherRange: {x: 10, y: 35}
+    wage: 60
+  - stars: 3
+    weight: 15
+    mainRange: {x: 50, y: 70}
+    otherRange: {x: 15, y: 45}
+    wage: 115
+  - stars: 4
+    weight: 6
+    mainRange: {x: 65, y: 85}
+    otherRange: {x: 20, y: 55}
+    wage: 185
+  - stars: 5
+    weight: 1
+    mainRange: {x: 80, y: 100}
+    otherRange: {x: 30, y: 65}
+    wage: 265
+  recruitCount: 3
+  recruitRefreshCost: 30
+  staffBaseCap: 2
+  surnames:
+  - "\u674E"
+  - "\u738B"
+  - "\u5F20"
+  - "\u5218"
+  - "\u9648"
+  - "\u67F3"
+  - "\u6797"
+  - "\u82CF"
+  - "\u6C88"
+  - "\u53F6"
+  - "\u5510"
+  - "\u767D"
+  - "\u79E6"
+  - "\u97E9"
+  - "\u4E91"
+  givenNames:
+  - "\u963F\u798F"
+  - "\u5C0F\u7FE0"
+  - "\u9752\u9752"
+  - "\u5927\u58EE"
+  - "\u4E8C\u725B"
+  - "\u6708\u513F"
+  - "\u4E09\u5A18"
+  - "\u5B50\u5B89"
+  - "\u82E5\u6C34"
+  - "\u957F\u751F"
+  - "\u6625\u6843"
+  - "\u94C1\u67F1"
+  - "\u7075\u513F"
+  - "\u900D\u9065"
+  - "\u5982\u610F"
+  playerSpeed: 4.5
+  playerCooking: 30
+  interactRange: 1.7
